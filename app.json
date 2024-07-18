@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "nucampsite",
+    "slug": "nucampsite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3e04af18-48e1-46b9-ba32-7e13f12123fc"
+      }
+    }
+  }
+}
